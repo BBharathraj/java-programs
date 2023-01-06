@@ -1,3 +1,4 @@
+//nextInt() method is used to scan(read,parse) the input, this input may be stored in the string format.nextInt() method is available in Scanner class(import java.util.Scanner;). For more details refer the following website"https://codegym.cc/groups/posts/scanner-nextint-method-in-java".
 import java.util.Scanner;
 public class FahrenheitToCelsius {
     public static void main(String[] arguments){
